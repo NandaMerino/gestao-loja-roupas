@@ -12,12 +12,11 @@ Este projeto é uma API RESTful desenvolvida utilizando Spring Boot para gerenci
 - Todas as entidades devem possuir endpoints, então, haverá controller, service, repository para cada entidade.
 
 ## Tecnologias Utilizadas
-Java
-Spring Boot
-JPQL
-JUnit
-JaCoCo
-MySQL
+- Java
+- Spring Boot
+- JUnit
+- JaCoCo
+- MySQL
 
 ## Instalação
 Para instalar e configurar o projeto, siga os passos abaixo:
